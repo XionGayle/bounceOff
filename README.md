@@ -1,2 +1,2 @@
-# bounceOff
-bouncing off two files.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
